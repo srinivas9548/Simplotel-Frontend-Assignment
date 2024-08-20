@@ -1,3 +1,6 @@
+### Published Link
+https://simplotel-frontend-assignment-five.vercel.app
+
 # Simplotel Assignment
 
 A responsive hotel website showcasing various amenities including Rooms, Dining, and Pools. The design is mobile-friendly and features a navigation bar with social media links.
